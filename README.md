@@ -9,3 +9,4 @@ The Twitter standard search API returns a collection of relevant Tweets that mat
 ## Endpoints
 ### Standard search API
 #### Resource URL
+https://api.twitter.com/1.1/search/tweets.json
